@@ -12,7 +12,7 @@ else:
     
 # 创建主窗口
 root = tk.Tk()
-root.title("预装组测试工具 : 郑安东00021417")
+root.title("bat工具")
 root.geometry("750x600")
  
 # 创建用于显示输出的文本框
